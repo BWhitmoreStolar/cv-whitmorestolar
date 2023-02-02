@@ -1,0 +1,37 @@
+---
+title: "Beth Whitmore-Stolar"
+output: 
+  html_document:
+  toc: true
+  toc.depth: 3
+date: "2023-01-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Education
+<br>
+  Bachelor of Science- Zoology 2006 SUNY Oswego
+  <br>
+  Associates in Science- Ecology and Environmental Science 2003 Finger Lakes Community College
+
+## Employment
+
+<br>
+2015-Present: Research Technician II at Cornell Biological Field Station at Shackelton Point
+<br>
+2014-2015: Science Tutor at Finger Lakes Community College 
+<br>
+2013-2014: Lab Technician at Jackson Labs, Bar Harbor, ME
+<br>
+
+### Experience
+<br>
+![Benthic Work](https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/38924290_10102030150928345_193987334704726016_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=84a396&_nc_ohc=dolqFlC_ZfwAX8eO6ps&_nc_ht=scontent-lga3-2.xx&oh=00_AfCTuwB0VEFp6vlNXT1XL0Ivy_n-TTq25gHHPkF6HGh_XQ&oe=63FA43F8)
+<br>
+- Collecting pelagic and benthic samples via shoreline , canoe, small water craft , and large water craft  
+<br>
+-Analyzing zooplanton samples via microscopy
+-

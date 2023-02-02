@@ -1,5 +1,5 @@
 ---
-title: "Beth Whitmore-Stolar"
+title: "Beth Whitmore-Stolar CV"
 output: 
   html_document:
   toc: true
@@ -10,7 +10,13 @@ date: "2023-01-26"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<br>
+114 Clarton St
+Syracuse, NY 13212
+315-317-8738
+<br>
+![Benthic Work](https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/38924290_10102030150928345_193987334704726016_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=84a396&_nc_ohc=dolqFlC_ZfwAX8eO6ps&_nc_ht=scontent-lga3-2.xx&oh=00_AfCTuwB0VEFp6vlNXT1XL0Ivy_n-TTq25gHHPkF6HGh_XQ&oe=63FA43F8)
+<br>
 # Education
 <br>
   Bachelor of Science- Zoology 2006 SUNY Oswego
@@ -28,8 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 ### Experience
-<br>
-![Benthic Work](https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/38924290_10102030150928345_193987334704726016_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=84a396&_nc_ohc=dolqFlC_ZfwAX8eO6ps&_nc_ht=scontent-lga3-2.xx&oh=00_AfCTuwB0VEFp6vlNXT1XL0Ivy_n-TTq25gHHPkF6HGh_XQ&oe=63FA43F8)
+
 <br>
 - Collecting pelagic and benthic samples via shoreline , canoe, small water craft , and large water craft  
 <br>

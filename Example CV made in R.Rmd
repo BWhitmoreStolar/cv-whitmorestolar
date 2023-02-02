@@ -3,7 +3,7 @@ title: "Beth Whitmore-Stolar"
 output: 
   html_document:
   toc: true
-  toc.depth: 3
+  toc.depth: 4
 date: "2023-01-26"
 ---
 
@@ -34,4 +34,48 @@ knitr::opts_chunk$set(echo = TRUE)
 - Collecting pelagic and benthic samples via shoreline , canoe, small water craft , and large water craft  
 <br>
 -Analyzing zooplanton samples via microscopy
--
+<br>
+-Calibrating water chemistry equipment (YSI, flow cytometer, temperature sensors)
+<br>
+-Preservation of zooplankton for archiving or genetics work.
+<br>
+-Advanced zooplankton taxonomy training
+<br>
+-Experienced in supervisong Undergraduate students and interns
+
+
+#### Publications and Presentations
+Publications
+<br>
+Whitmore, E. A., J. K. Connolly, J. M. Watkins, and L. G. Rudstam. 2021. An exploration of Lake Ontario’s offshore benthic cladoceran community. Journal of Great Lakes Research 48(2), 428-433.
+<br>
+Whitmore EA, JK Connolly, K Van Damme, JM Watkins, EK Hinchey, and LG Rudstam (2019). 
+First Record of the Neotropical cladoceran Diaphanosoma fluviatile Hansen, 1899 in the Great Lakes basin. BioInvasions Records 8(3):614-622.
+<br>
+Watkins JM, Whitmore, EA, LG Rudstam. 2019. Annual Silver Lake Report 2018.  Report to the Rose Conservatory.
+<br>
+Whitmore, E.A., LG Rudstam, J Watkins. 2018. Annual Silver Lake Report 2017.  Report to the Rose Conservatory.
+
+<br>
+Whitmore, EA. 2010. Biology: The living science laboratory manual-Photosynthesis Plants and Pollution pg 99-104 Contributing author: Kevin Tracewski and Ecology Lab pg129-140.
+
+<br>
+Whitmore, EA, 2008. Zooplankton community structure and dynamics in lakes of contrasting water clarity in 
+	Acadia National Park. Contributing authors: Katherine Webster (University of Maine) and Linda Bacon    
+    (Maine DEP). Report to Acadia National Park Service.
+<br>
+                                            
+Presentations
+<br>
+2022 State of Lake Erie Conference (SOLE)- Non-Native Zooplankton of Lake Erie: New data and updates. Contributing authors: Joeseph Connelly, James Watkins, and Lars Rudstam.
+<br>
+2021 International Association of Great Lakes Research (IAGLR)- Diversity and potential impact of often overlooked benthic Radopoda (Cladocera: Anomopoda) in Lake Ontario. Contributing authors: Joeseph Connelly, James Watkins, and Lars Rudstam. 
+<br<
+2019 International Association of Great Lakes Research (IAGLR)- Variation in “Bosmina (Eubosmina) maritima” across the Laurentian Great Lakes. Contributing Authors: James Watkins, Lars Rudstam, and Kay Van Damme.
+<br<
+2018 International Association of Great Lakes Research (IAGLR)- How Improving DNA Barcoding Libraries Can Improve Zooplankton Monitoring in the Great Lakes. Contributing Authors: James Watkins and Lars Rudstam.
+<br>
+2017 International Association of Great Lakes Research (IAGLR)- Detecting the presence and spread of invasive zooplankton in the Great Lakes using DNA barcoding. Contributing Authors: James Watkins and Lars Rudstam.
+<br>
+
+

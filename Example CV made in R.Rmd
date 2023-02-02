@@ -20,9 +20,9 @@ Syracuse, NY 13212
 
 ## Education
 <br>
-  Bachelor of science- Zoology 2006 SUNY Oswego
+  Bachelor of Science- Zoology 2006 SUNY Oswego
   <br>
-Associates in science- Ecology and Environmental Science 2003 Finger Lakes Community Collage
+Associates in Science- Ecology and Environmental Science 2003 Finger Lakes Community Collage
 
 ## Work History
 
@@ -31,15 +31,15 @@ Associates in science- Ecology and Environmental Science 2003 Finger Lakes Commu
 <br>
 2014-2015: Science Tutor at Finger Lakes Community College 
 <br>
-2013-2014: Lab Technician at Jackson Labs, bar harbor, me
+2013-2014: Lab Technician at Jackson Labs, Bar Harbor, ME
 <br>
 
-### Employment
+### Experience
 
 <br>
 - Collecting pelagic and benthic samples via shoreline , canoe, small water craft , and large water craft  
 <br>
--Analyzing zooplanton samples via microscopy
+-Analyzing zooplankton samples via microscopy
 <br>
 -Calibrating water chemistry equipment (YSI, flow cytometer, temperature sensors)
 <br>
@@ -47,18 +47,22 @@ Associates in science- Ecology and Environmental Science 2003 Finger Lakes Commu
 <br>
 -Advanced zooplankton taxonomy training
 <br>
--Experienced in supervisong undergraduate students and interns
+-Experienced in supervising undergraduate students and interns
 
 
 #### Publications and Presentations
 Publications
+
 <br>
 Whitmore, E. A., J. K. Connolly, J. M. Watkins, and L. G. Rudstam. 2021. An exploration of Lake Ontario’s offshore benthic cladoceran community. Journal of Great Lakes Research 48(2), 428-433.
+
 <br>
 Whitmore EA, JK Connolly, K Van Damme, JM Watkins, EK Hinchey, and LG Rudstam (2019). 
 First Record of the Neotropical cladoceran Diaphanosoma fluviatile Hansen, 1899 in the Great Lakes basin. BioInvasions Records 8(3):614-622.
+
 <br>
 Watkins JM, Whitmore, EA, LG Rudstam. 2019. Annual Silver Lake Report 2018.  Report to the Rose Conservatory.
+
 <br>
 Whitmore, E.A., LG Rudstam, J Watkins. 2018. Annual Silver Lake Report 2017.  Report to the Rose Conservatory.
 
@@ -69,8 +73,9 @@ Whitmore, EA. 2010. Biology: The living science laboratory manual-Photosynthesis
 Whitmore, EA, 2008. Zooplankton community structure and dynamics in lakes of contrasting water clarity in 
 	Acadia National Park. Contributing authors: Katherine Webster (University of Maine) and Linda Bacon    
     (Maine DEP). Report to Acadia National Park Service.
+    
 <br>
-Presentayions
+Presentations
 <br>
 2022 State of Lake Erie Conference (SOLE)- Non-Native Zooplankton of Lake Erie: New data and updates. Contributing authors: Joeseph Connelly, James Watkins, and Lars Rudstam.
 <br>
